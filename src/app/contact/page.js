@@ -1,4 +1,5 @@
-// pages/contact.js
+'use client';
+
 import Link from "next/link";
 
 export default function Profile() {

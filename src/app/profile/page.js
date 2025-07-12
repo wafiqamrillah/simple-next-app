@@ -1,4 +1,5 @@
-// pages/profile.js
+'use client';
+
 export default function Profile() {
     return (
         <div className="flex flex-auto flex-col gap-3 items-center p-6 md:p-20 lg:p-32">
